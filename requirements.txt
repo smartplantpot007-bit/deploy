@@ -1,7 +1,6 @@
 flask
-numpy
-scikit-learn
+flask-cors
 joblib
+scikit-learn
+numpy
 gunicorn
-
-
