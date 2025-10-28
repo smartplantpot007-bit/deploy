@@ -2,5 +2,6 @@ flask
 numpy
 scikit-learn
 joblib
-unicorn
+gunicorn
+
 
